@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Password Generator
 
 ![Github License](https://img.shields.io/badge/License-MIT-yellow.svg)
@@ -30,3 +31,7 @@ MIT
 ## Questions
 
 For additional information please contact me via GitHub at [https://github.com/codeb-a](https://github.com/codeb-a) or via email at [brandonakers729@gmail.com](mailto:brandonakers729@gmail.com?subject=[GitHub]%README%Generator).
+=======
+# homework3
+Homework Three
+>>>>>>> 1cecb72fed797d1d1ffe03c1599d9938bcb2af01
